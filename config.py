@@ -93,7 +93,7 @@ BOT_USERNAME = os.environ.get("BOT_USERNAME", "") # Bot Username
 
 STRING_SESSION = os.environ.get("STRING_SESSION", None) # Telethon Based String Session (2nd ID) [ From https://repl.it/@SpEcHiDe/GenerateStringSession ]
 REPO = "TeamScenario/Scenario"
-DEVELOPER = "TeamScenario"
+DEVELOPER = "@lover_jerry"
 APP_ID = API_ID
 APP_HASH = API_HASH
 HEROKU_APP_NAME = os.environ.get("HEROKU_APP_NAME", True) # Heroku App Name 
